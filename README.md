@@ -2,4 +2,4 @@
 - 📝Desenvolvedor Full Stack
 - 🌱Ceará
 
-![marcosbraz1's Stats](https://github-readme-stats.vercel.app/api?username=marcosbraz1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![marcosbraz1's Stats](https://github-readme-stats.vercel.app/api?username=marcosbraz1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbraz1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
